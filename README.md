@@ -7,6 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-harwell-895587193/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/ethan-harwell)
 
+## Check out my portfolio
+https://iethan-h.github.io/
+
 
 ## Technologies I Use
 <p>
